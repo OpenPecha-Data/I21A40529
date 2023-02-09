@@ -1,0 +1,47 @@
+id: 759b9ccdf6c5404d946a9afa6f13797f
+annotation_type: index
+revision: '00001'
+annotations:
+  0a94a681f2f24640a6d648e74fd40467:
+    base: 897C.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 49
+    - title: Homage
+      span:
+        start: 50
+        end: 80
+    - title: Short §1
+      span:
+        start: 81
+        end: 251
+    - title: Short §2
+      span:
+        start: 252
+        end: 397
+    - title: Short §3
+      span:
+        start: 398
+        end: 439
+    - title: Short §4
+      span:
+        start: 440
+        end: 745
+    - title: Short §5
+      span:
+        start: 746
+        end: 885
+    - title: Short §6
+      span:
+        start: 886
+        end: 1119
+    - title: Short §7
+      span:
+        start: 1120
+        end: 1381
+    - title: Colophon
+      span:
+        start: 1382
+        end: 1392
